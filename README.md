@@ -1,6 +1,6 @@
 # Customer Churn Prediction 
  
-This project aim to predict the behavior a Telco customer eitheir he will churn or not.</br>
+This project aims to predict the behavior of a Telco customer eitheir he will churn or not.</br>
 The dataset was downloaded from Kaggle</br>
 
 # Content
